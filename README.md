@@ -5,11 +5,17 @@ To achieve a GUI based on “Text based Captcha using python”.
 Containing:
 
 Page containing Captcha
+
 Registration GUI
-Login GUI
+
+Login GUI 
+
 Specialization 
+
 Insertion GUI
+
 Database
+
 Background:
 Code used:
 Python 
